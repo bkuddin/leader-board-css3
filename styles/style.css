@@ -15,9 +15,9 @@ main {
 
 .container {
   background-color: #ffffff;
-  width: 870px;
-  padding: 30px;
   margin-bottom: 21px;
+  width: 58%;
+  padding: 2rem;
   border-radius: 5px;
 }
 
@@ -124,6 +124,25 @@ course styles-------
 }
 .fa-star.empty {
   color: #aeaeae;
+}
+
+/* list-section for Js */
+
+.list-section {
+  background: #562eff;
+  width: 58%;
+  padding: 2rem;
+  border-radius: 5px;
+}
+
+.list-items ul {
+  text-decoration: none;
+  list-style: none;
+}
+
+.list-items ul li {
+  background: #ffffff;
+  margin-top: 10px;
 }
 
 /* ----------
